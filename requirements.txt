@@ -1,0 +1,6 @@
+openai~=1.14.2
+pyspellchecker~=0.8.1
+python-dotenv~=1.0.1
+pytest~=8.2.1
+pylint~=3.2.2
+Sphinx~=7.2.6
